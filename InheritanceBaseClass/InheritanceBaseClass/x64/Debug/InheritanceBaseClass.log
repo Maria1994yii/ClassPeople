@@ -1,0 +1,3 @@
+﻿  InheritanceBaseClass.cpp
+C:\Users\мариа\source\repos\InheritanceBaseClass\InheritanceBaseClass\InheritanceBaseClass.cpp(142,11): warning C4101: profession: неиспользованная локальная переменная
+C:\Users\мариа\source\repos\InheritanceBaseClass\InheritanceBaseClass\InheritanceBaseClass.cpp(149): error C4700: использована неинициализированная локальная переменная "name"
